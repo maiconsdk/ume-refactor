@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "server": "php -S localhost:3030",
     "sass": "sass -w ./resources:_dist/css",
     "ts": "tsc -w"
   },

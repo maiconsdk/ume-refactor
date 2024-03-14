@@ -8,6 +8,7 @@ require_once './vendor/autoload.php';
 
 require_once './resources/layout/header/header.php';
 require_once './resources/layout/footer/footer.php';
+require_once './resources/components/button/button.php';
 
 if($_SERVER['REQUEST_URI'] === '/') {
     require_once './resources/views/pages/home/home-page.view.php';

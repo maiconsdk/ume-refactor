@@ -1,7 +1,12 @@
-.l-header {
-  display: flex;
-  padding: 5rem 10rem;
-  background-color: #fc0;
+.c-button {
+  background-color: rgba(204, 238, 204, 0.9333333333);
+  color: rgba(48, 65, 48, 0.933);
+  padding: 1rem 2rem;
+  cursor: pointer;
+}
+.c-button--borded {
+  border: 2px solid rgba(204, 238, 204, 0.9333333333);
+  background-color: transparent;
 }
 
 /*# sourceMappingURL=blog.css.map */

@@ -3,4 +3,9 @@
     color: rgba(48, 65, 48, 0.933);
     padding: 1rem 2rem;
     cursor: pointer;
+
+    &--borded {
+        border: 2px solid #cece;
+        background-color: transparent;
+    }
 }

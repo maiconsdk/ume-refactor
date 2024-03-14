@@ -10,5 +10,9 @@
   padding: 1rem 2rem;
   cursor: pointer;
 }
+.c-button--borded {
+  border: 2px solid rgba(204, 238, 204, 0.9333333333);
+  background-color: transparent;
+}
 
 /*# sourceMappingURL=home.css.map */
