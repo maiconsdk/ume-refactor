@@ -1,0 +1,14 @@
+{
+  "name": "umentor-refactor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass -w ./resources:_dist/css",
+    "ts": "tsc -w"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "sass": "^1.71.1",
+    "typescript": "^5.4.2"
+  }
+}

@@ -1,0 +1,16 @@
+{
+    "name": "umentor/umentor-refactor",
+    "autoload": {
+        "psr-4": {
+            "Umentor\\UmentorRefactor\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Maicon Silva",
+            "email": "contato@maiconsilva.com.br"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
